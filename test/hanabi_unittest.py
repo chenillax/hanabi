@@ -2,7 +2,6 @@ import unittest
 import hanabi
 
 
-
 class ColorTest(unittest.TestCase):
     def test_str(self):
         colors = [(31, "Red"), (32, "Green"), (34, "Blue"), (33, "Yellow"), (37, "White")]
